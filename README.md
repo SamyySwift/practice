@@ -1,8 +1,8 @@
-### Overview
+### 🎯Overview
 
-This github if for practice
+This github is for practice
 
-#### Tools Used
+#### 🛠️Tools Used
 
 - _VS Code_
 - **Git & GitHub**

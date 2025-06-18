@@ -1,8 +1,10 @@
-### 🎯Overview
+### 🎯**Overview**
+This repository is for practicing git and GitHub
 
-This github is for practice
+### 🛠️ Tools Used
+- *VS Code*
+- Git
+- GitHub
 
-#### 🛠️Tools Used
-
-- _VS Code_
-- **Git & GitHub**
+### 🔗 Links
+Click [here](https://www.markdownguide.org/cheat-sheet/) to learn all the markdown codes
